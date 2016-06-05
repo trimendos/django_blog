@@ -1,2 +1,5 @@
 *.pyc
 /django_blog_venv
+oop_test.py
+algoritm_test.py
+db.sqlite3
